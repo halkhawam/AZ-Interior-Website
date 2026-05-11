@@ -1,2 +1,4 @@
 frontend:  npm run dev
 Backend: node server.js
+
+Now you can just open the terminal in the main folder ( the one has both frontend and Backend folders ) and just hit npm run dev and both apps will run at the same time
